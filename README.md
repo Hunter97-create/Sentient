@@ -1,6 +1,6 @@
 # Sentient
 
-## Discord - Get role
+## 1. Discord - Get role
 
 - @Early AGI - Entry-level OG, the role is awarded to active community members who contribute regularly and amplify others.
 
