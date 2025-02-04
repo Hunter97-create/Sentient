@@ -1,2 +1,6 @@
 # Sentient
-Target
+
+## Discord - Get role
+
+### Target
+- Daily 10 msg
