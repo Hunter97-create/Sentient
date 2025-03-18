@@ -17,6 +17,13 @@ There are three OG roles in the community
 
 Show your support, do meaningful contribute, and dont spam. 
 
+### OGs
+- RANA
+- MIC
+
+
+
+
 ## Tasks
 - Connect Metamask.
 - Send some prompts to the AI and choose which answer is better
