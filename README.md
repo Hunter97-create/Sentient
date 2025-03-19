@@ -22,6 +22,9 @@ Show your support, do meaningful contribute, and dont spam.
 - MIC
 - Dacron
 
+### Community members
+- Slumberjac
+- Vivek Kolli
 
 
 
